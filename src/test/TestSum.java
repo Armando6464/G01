@@ -10,7 +10,7 @@ public class TestSum {
 
 	
 	@Test
-	public void testSum2Modificado() {
+	public void testSum2Modificado1() {
 		assertEquals(6, Sum.sum(3, 3));
 	}
 	
