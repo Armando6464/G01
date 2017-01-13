@@ -10,7 +10,7 @@ public class TestSum {
 
 	
 	@Test
-	public void testSum2() {
+	public void testSum2Development() {
 		assertEquals(6, Sum.sum(3, 3));
 	}
 	
